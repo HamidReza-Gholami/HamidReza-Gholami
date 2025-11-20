@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br><br>I'm HamidReza, but you can call me Hamid.<br><br>I'm a Backend Developer with experience in .NET C# and Node.js. I also have frontend skills in Vue.js, Razor Pages, and ASP.NET Core.<br><br>I've worked with .NET Framework and .NET Core versions 5 to 9. For databases, I use MongoDB, Redis, and SQL Server.<br><br>If you need messaging, I can set that up with RabbitMQ or Redis Pub/Sub.
+Hi,<br><br>I'm HamidReza, but you can call me Hamid.<br><br>I'm a Backend Developer with experience in .NET C# and Node.js. I also have frontend skills in Vue.js, Razor Pages, and ASP.NET Core.<br><br>I've worked with .NET Framework and .NET Core versions 5 to 10. For databases, I use MongoDB, Redis, and SQL Server.<br><br>If you need messaging, I can set that up with RabbitMQ or Redis Pub/Sub.
 
 
 ## 🌐 Socials:
